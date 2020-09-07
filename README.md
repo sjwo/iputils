@@ -1,3 +1,7 @@
+# Fork README
+I forked _iputils_ to standardize the precision with which _ping_ reports response times. This was useful during validation and characterization of the testbed I used for my MS thesis research.
+
+# Original README
 [![Build Status](https://travis-ci.org/iputils/iputils.svg?branch=master)](https://travis-ci.org/iputils/iputils)
 [![Coverity Status](https://scan.coverity.com/projects/1944/badge.svg?flat=1)](https://scan.coverity.com/projects/1944)
 
